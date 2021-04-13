@@ -1,4 +1,4 @@
-#React-table project
+# React-table project
 
 - Run npm install to install all dependencies
 - Run npm start to run the project on localhost:3000
