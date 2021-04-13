@@ -5,4 +5,4 @@
   <br>
   <br>
 
-![alt text]('./img.png');
+![alt text](./img.png);
