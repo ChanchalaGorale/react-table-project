@@ -256,6 +256,7 @@ function Holdingtable() {
   const [loading, setLoading] = React.useState(false);
   const [pageCount, setPageCount] = React.useState(0);
   const fetchIdRef = React.useRef(0);
+  
 
   React.useEffect(() => {
     setLoading(true);
@@ -290,15 +291,16 @@ function Holdingtable() {
       }
     }, 1000);
   }, []);
-
+  
   return (
-    <Table
-      columns={columns}
-      data={data}
-      fetchData={fetchData}
-      loading={loading}
-      pageCount={pageCount}
-    />
+   
+        <Table
+          columns={columns}
+          data={data}
+          fetchData={fetchData}
+          loading={loading}
+          pageCount={pageCount}
+        />
   );
 }
 
