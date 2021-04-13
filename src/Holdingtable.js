@@ -271,7 +271,7 @@ function Holdingtable() {
 
     console.log(holdData);
     setLoading(false);
-  }, [holdData]);
+  }, []);
 
   const fetchData = React.useCallback(({ pageSize, pageIndex }) => {
     const fetchId = ++fetchIdRef.current;
