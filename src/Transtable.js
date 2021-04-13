@@ -267,7 +267,7 @@ function Transtable() {
 
     console.log(transData);
     setLoading(false);
-  }, []);
+  }, [transData]);
 
   const fetchData = React.useCallback(({ pageSize, pageIndex }) => {
     const fetchId = ++fetchIdRef.current;

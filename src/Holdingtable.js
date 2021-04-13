@@ -86,7 +86,7 @@ function Table({
   return (
     <>
       <button type="button" className="btn btn-primary" onClick={originalOrder}>
-        Original order Column order
+        Original Column order
       </button>
       <button type="button" className="btn btn-primary" onClick={changeOrder}>
         Important Column order
@@ -271,7 +271,7 @@ function Holdingtable() {
 
     console.log(holdData);
     setLoading(false);
-  }, []);
+  }, [holdData]);
 
   const fetchData = React.useCallback(({ pageSize, pageIndex }) => {
     const fetchId = ++fetchIdRef.current;
