@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-table-project/static/css/main.10337de4.chunk.css",
+    "main.js": "/react-table-project/static/js/main.a9cf2935.chunk.js",
+    "main.js.map": "/react-table-project/static/js/main.a9cf2935.chunk.js.map",
+    "runtime-main.js": "/react-table-project/static/js/runtime-main.85422661.js",
+    "runtime-main.js.map": "/react-table-project/static/js/runtime-main.85422661.js.map",
+    "static/css/2.81b0985c.chunk.css": "/react-table-project/static/css/2.81b0985c.chunk.css",
+    "static/js/2.376ec92e.chunk.js": "/react-table-project/static/js/2.376ec92e.chunk.js",
+    "static/js/2.376ec92e.chunk.js.map": "/react-table-project/static/js/2.376ec92e.chunk.js.map",
+    "static/js/3.99020264.chunk.js": "/react-table-project/static/js/3.99020264.chunk.js",
+    "static/js/3.99020264.chunk.js.map": "/react-table-project/static/js/3.99020264.chunk.js.map",
+    "index.html": "/react-table-project/index.html",
+    "static/css/2.81b0985c.chunk.css.map": "/react-table-project/static/css/2.81b0985c.chunk.css.map",
+    "static/css/main.10337de4.chunk.css.map": "/react-table-project/static/css/main.10337de4.chunk.css.map",
+    "static/js/2.376ec92e.chunk.js.LICENSE.txt": "/react-table-project/static/js/2.376ec92e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85422661.js",
+    "static/css/2.81b0985c.chunk.css",
+    "static/js/2.376ec92e.chunk.js",
+    "static/css/main.10337de4.chunk.css",
+    "static/js/main.a9cf2935.chunk.js"
+  ]
+}
