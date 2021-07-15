@@ -1,5 +1,3 @@
-import Transtable from "./Transtable";
-import Holdingtable from "./Holdingtable";
 import "./App.css";
 import { Tabs, Table } from 'antd';
 import React, { useState, useEffect } from 'react'
